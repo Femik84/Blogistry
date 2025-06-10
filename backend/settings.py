@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-@pvg^n4)9$t6ymdqkek&6&t)y8er(d1fquaw29=1w=l@(#5r60
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["blogistry-backend.onrender.com"]
+ALLOWED_HOSTS = ["blogistry-backend.onrender.com", "127.0.0.1", "localhost"]
 
 
 
